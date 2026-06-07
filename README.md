@@ -97,7 +97,7 @@ Model fairness remained relatively consistent across demographic groups.
 
 ### Correlation Heatmap
 
-![Heatmap](results/figures/correlation_heatma.png)
+![Heatmap](results/figures/correlation_heatmap.png)
 
 ### \# Limitations
 
