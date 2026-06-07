@@ -89,7 +89,15 @@ Random Forest and LightGBM achieved relatively similar but better than the rest 
 
 Model fairness remained relatively consistent across demographic groups.
 
+### \# Results
 
+### SHAP Feature Importance
+
+![SHAP](results/figures/shap_bar.png)
+
+### Correlation Heatmap
+
+![Heatmap](results/figures/correlation_heatma.png)
 
 ### \# Limitations
 
