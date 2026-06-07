@@ -1,0 +1,13 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.vscode/
+
+.env
+
+.DS_Store
+
+models/*.pkl
